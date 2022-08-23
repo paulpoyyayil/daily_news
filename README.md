@@ -10,8 +10,6 @@ Daily News is a Flutter application that displays the most popular news from New
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
-
 - [VS Code] -  Code editor redefined and optimized for building and debugging modern web and cloud applications.
 - [Flutter] - Open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
 - [Firebase] - Platform developed by Google for creating mobile and web applications.
